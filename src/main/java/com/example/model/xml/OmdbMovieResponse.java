@@ -1,6 +1,6 @@
 package com.example.model.xml;
 
-// package edu.kirkwood.model.xml;
+// package com.example.model.xml;
 
 import jakarta.xml.bind.annotation.*; // For JAXB
 // import com.fasterxml.jackson.data.format.xml.annotation.*; // For Jackson

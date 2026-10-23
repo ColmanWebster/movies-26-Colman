@@ -1,5 +1,5 @@
 package com.example.model;
-// package edu.kirkwood.model;
+// package com.example.model;
 
 import java.util.Objects;
 
